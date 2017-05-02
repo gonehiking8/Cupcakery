@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+  text-align: left;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+}
+p.intro {
+  width: 50%;
+  font-style: italic;
+  text-align: left;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.important {
+  color: red;
+}
+
+.best {
+  color: #a09ecc;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
